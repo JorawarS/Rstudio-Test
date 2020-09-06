@@ -1,0 +1,1 @@
+print("Test script checking link to GitHub")
